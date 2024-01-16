@@ -20,7 +20,6 @@ describe('Search products', () => {
         await productViewScreen.search()
         await productViewScreen.searchBy(`${searchName}\n`)
         
-        
         // Possivel Erro ou Flaky Test
         // expect(await productViewScreen.product(searchName)).toExist()
     });

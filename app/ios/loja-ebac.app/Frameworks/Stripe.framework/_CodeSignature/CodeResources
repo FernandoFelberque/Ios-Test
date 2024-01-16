@@ -6,15 +6,15 @@
 	<dict>
 		<key>Info.plist</key>
 		<data>
-		bZsizd4VFwD+PeGlADbB2pxRISo=
+		iSemC3JNfMTZkiL92YJrd+qhMAs=
 		</data>
 		<key>Stripe.bundle/Info.plist</key>
 		<data>
-		1HUpsys6kvR6nXkeLmtlEV5oeBI=
+		qDNjgH7+9iAedY+RD/321CSqC1Y=
 		</data>
 		<key>Stripe.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		HHollwfR7Ho15AANL8TTtstiBik=
+		wopoVZxDejeLTeU2Ah7uvfixT0g=
 		</data>
 		<key>Stripe.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -22,23 +22,15 @@
 		</data>
 		<key>Stripe.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		4Y2QggUq75lBGnT6HEp3yJQdAEw=
+		elDR+js2dD+4fTDRvFkNLQvBH5Y=
 		</data>
 		<key>Stripe.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		JWwPcW/laInU+K+gaTTPhNx+y5U=
+		K5xlpV/1Z4b4aJ2wGHjQ3BARC3U=
 		</data>
 		<key>Stripe.bundle/_CodeSignature/CodeSignature</key>
 		<data>
 		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
-		</data>
-		<key>Stripe.bundle/affirm_mark@3x.png</key>
-		<data>
-		V4GBEz8vi1c3rK50tqF0MoKQxo8=
-		</data>
-		<key>Stripe.bundle/affirm_mark_dark@3x.png</key>
-		<data>
-		VwvCx1nlWKusH4C4eUWUf3aC14I=
 		</data>
 		<key>Stripe.bundle/afterpay_icon_info@3x.png</key>
 		<data>
@@ -64,70 +56,6 @@
 		<data>
 		1bTo7i6sVSY85whK/COW4EpBVzo=
 		</data>
-		<key>Stripe.bundle/back_button@3x.png</key>
-		<data>
-		d+mJIvRzibaX8WltdY+KXSHYC0I=
-		</data>
-		<key>Stripe.bundle/bank_icon_boa@3x.png</key>
-		<data>
-		bMShpFvkQd/qmEvrFyk2Xm3mcgg=
-		</data>
-		<key>Stripe.bundle/bank_icon_capitalone@3x.png</key>
-		<data>
-		gzELzyZWb70GJp+uRiQ70kDB6lw=
-		</data>
-		<key>Stripe.bundle/bank_icon_citibank@3x.png</key>
-		<data>
-		nUakpzvITlNz208OJjtLPwXNvNA=
-		</data>
-		<key>Stripe.bundle/bank_icon_compass@3x.png</key>
-		<data>
-		L2yVdV9/GfWvHOR43O86xo3lwxQ=
-		</data>
-		<key>Stripe.bundle/bank_icon_default@3x.png</key>
-		<data>
-		+hO9i4cPG9QdRmrTDmPKZ6b6H1E=
-		</data>
-		<key>Stripe.bundle/bank_icon_morganchase@3x.png</key>
-		<data>
-		daa/GtynDNSzeUVYMweXcIeOWYc=
-		</data>
-		<key>Stripe.bundle/bank_icon_nfcu@3x.png</key>
-		<data>
-		iCLb77mBCyDDgSQTl7mji5SIY90=
-		</data>
-		<key>Stripe.bundle/bank_icon_pnc@3x.png</key>
-		<data>
-		3Q2A2+cnoZNDjJlzXLptHLgaGM0=
-		</data>
-		<key>Stripe.bundle/bank_icon_stripe@3x.png</key>
-		<data>
-		aJN2V61BGjyOkeEoKxGGm2vXAIM=
-		</data>
-		<key>Stripe.bundle/bank_icon_suntrust@3x.png</key>
-		<data>
-		b9NkIVSNT4ZC/KzcEYJLnhTs8gs=
-		</data>
-		<key>Stripe.bundle/bank_icon_svb@3x.png</key>
-		<data>
-		cPFNmkCSY5oDTWXj0z8hJ7ihlTI=
-		</data>
-		<key>Stripe.bundle/bank_icon_td@3x.png</key>
-		<data>
-		PaWq25SC5hyLkH1YYrYnCU+r+lM=
-		</data>
-		<key>Stripe.bundle/bank_icon_usaa@3x.png</key>
-		<data>
-		I2Oqe7DT3u6P/Rqg3D+faeU4rv8=
-		</data>
-		<key>Stripe.bundle/bank_icon_usbank@3x.png</key>
-		<data>
-		RnacFUQYAQcZDsOlqnf6/fVLjkI=
-		</data>
-		<key>Stripe.bundle/bank_icon_wellsfargo@3x.png</key>
-		<data>
-		LjuWGtkaXym050zfIVxve/sA0wg=
-		</data>
 		<key>Stripe.bundle/bankofmelbourne@3x.png</key>
 		<data>
 		21KENzIsPUqxMDdkBldIE/uHzxI=
@@ -144,7 +72,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XB2ogRXYuGULeqVJguj08gAWWUI=
+			jEpG3yGn3hy01qfpQpMTe6w6MSs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -157,14 +85,18 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jOvZ1dBHiW9oUGlIzdYfwb/ATXc=
+			Xt/iHAH+ULATxfAOZ6XvBsAbviU=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>Stripe.bundle/card_amex@3x.png</key>
 		<data>
-		IY3+G1dPyp7zeH8L20TbVPc9CA0=
+		9QesAHgRj/0LfIFFaViEvFB4TOE=
+		</data>
+		<key>Stripe.bundle/card_amex_dark@3x.png</key>
+		<data>
+		+ez9GUkExnZ4Z6diT0gnTLeHI8Q=
 		</data>
 		<key>Stripe.bundle/card_cvc_amex_icon@3x.png</key>
 		<data>
@@ -174,14 +106,6 @@
 		<data>
 		HA8jOhaosABNEmv85UwV4vEFeOU=
 		</data>
-		<key>Stripe.bundle/card_cvc_amex_updated_icon@3x.png</key>
-		<data>
-		xFlBRTJKYID/9Jgkhz2VPeAmtYY=
-		</data>
-		<key>Stripe.bundle/card_cvc_amex_updated_icon_dark@3x.png</key>
-		<data>
-		UsUhgkWebqYkToHA0Dec1xEe3iA=
-		</data>
 		<key>Stripe.bundle/card_cvc_icon@3x.png</key>
 		<data>
 		YGRk31zy3/ASued70seyVzjDeDs=
@@ -190,37 +114,53 @@
 		<data>
 		ccQbr5MuLI2bxeYp3WbgqFXA27g=
 		</data>
-		<key>Stripe.bundle/card_cvc_updated_icon@3x.png</key>
-		<data>
-		jh3L19gr8d6TTR/MJS8O4gx7vog=
-		</data>
-		<key>Stripe.bundle/card_cvc_updated_icon_dark@3x.png</key>
-		<data>
-		wYvvNLiQ2YlOU58XwZmrJYlL1f0=
-		</data>
 		<key>Stripe.bundle/card_diners@3x.png</key>
 		<data>
-		KC+dEeqgFRhLSUeIHqHLx3Yxmuc=
+		tXUkwWcuVyOVWhBmEzo52lqd5qI=
+		</data>
+		<key>Stripe.bundle/card_diners_dark@3x.png</key>
+		<data>
+		Im6LYL8Ify2Sh9yTDsHcLTPdTNc=
 		</data>
 		<key>Stripe.bundle/card_discover@3x.png</key>
 		<data>
-		94QsxgIpj/EEbJoocOinDDSi+mU=
+		H65Xu7NCBfW1ximYRCIwDmjpkT0=
+		</data>
+		<key>Stripe.bundle/card_discover_dark@3x.png</key>
+		<data>
+		ZqAXCknsmX+t+s6k0TrtpFtbaJw=
 		</data>
 		<key>Stripe.bundle/card_jcb@3x.png</key>
 		<data>
-		JYq7U4TN+7WyCYFdoXAdg7m41sY=
+		eiN8rKHSXhnalR/R5GwM5oPAXqQ=
+		</data>
+		<key>Stripe.bundle/card_jcb_dark@3x.png</key>
+		<data>
+		rK4HgpqUHAraWMxhPQqlHLWBgQ8=
 		</data>
 		<key>Stripe.bundle/card_mastercard@3x.png</key>
 		<data>
-		2QI3QKEioON+JuxNt0SvJtiSDlw=
+		Su1OEqSDpwGTd7SpO5L/ULkIHZk=
+		</data>
+		<key>Stripe.bundle/card_mastercard_dark@3x.png</key>
+		<data>
+		yh386SZ8ssuVgmeRHYeBge7EEdg=
 		</data>
 		<key>Stripe.bundle/card_unionpay@3x.png</key>
 		<data>
-		IbB9WNHBqRjtaO8WCDvk5Ks7h88=
+		pLf/5PLwozfRmlYV3HAtz6qW/4g=
+		</data>
+		<key>Stripe.bundle/card_unionpay_dark@3x.png</key>
+		<data>
+		8BO+RM/ITqmKyISnYixsV1RHgFM=
 		</data>
 		<key>Stripe.bundle/card_unknown@3x.png</key>
 		<data>
-		CkCbzmdyvTM2Rz3YcXqDa6CEnIM=
+		psQ/JUYu6EsnCf2XL2vm8HtE/Q8=
+		</data>
+		<key>Stripe.bundle/card_unknown_dark@3x.png</key>
+		<data>
+		wjGcUnVeRiXa1OZQajUBBiU0cEw=
 		</data>
 		<key>Stripe.bundle/card_unknown_icon@3x.png</key>
 		<data>
@@ -230,17 +170,13 @@
 		<data>
 		W/tuhjSCwBNewa/i1Riw4m/Mpuo=
 		</data>
-		<key>Stripe.bundle/card_unknown_updated_icon@3x.png</key>
-		<data>
-		XfigwJI7i8HEYDwF00s4wIN18yA=
-		</data>
-		<key>Stripe.bundle/card_unknown_updated_icon_dark@3x.png</key>
-		<data>
-		peZGSXydgC9g3MXbpCDNw+ERgsw=
-		</data>
 		<key>Stripe.bundle/card_visa@3x.png</key>
 		<data>
-		eK8MxXGYxBcUxjyW7AuTd7Yx5fY=
+		go8bZVY3fOeDtu0J12WO79GoN/4=
+		</data>
+		<key>Stripe.bundle/card_visa_dark@3x.png</key>
+		<data>
+		Wwz5iuACLKEKRMbjJYedixUUc18=
 		</data>
 		<key>Stripe.bundle/cba@3x.png</key>
 		<data>
@@ -258,7 +194,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			w36TrY02ffadsatXcVvJ4LcXqnk=
+			17+LDKWGQ3hGgCrXm2rAhAhSQns=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -267,7 +203,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			USETptM6XmBjSibx1YiWk8EVvkw=
+			Z9T3nbYFhJGg12InMNqGtnCSFlg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -276,7 +212,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8o9Af6yORT/SlnvAwmBfFzmMpPg=
+			icyvFRIE+ghIYZZD7MeQ96jTqKY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -285,7 +221,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			03AWifBeSLwYbAyZLbzMM5DU8BQ=
+			94E7X16/DTk8otXLhJqH3pmkl9I=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -294,7 +230,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/RS2bGev9AVnR1bXE9uqnhGhh0o=
+			q3yqpCAvYKLJZ/AKKM7Q9RX5tX0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -303,7 +239,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pKvt3ihW62zwEgiGoA8sl8BJ3A4=
+			wlimPlQZYUtf+A8i1VgQMcv8/OQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -312,7 +248,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vkF0pMdZQv2MFoN490a8QXu3+iM=
+			Bj5CPpRxYsfhFYWAis2k6rx+T6A=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -321,7 +257,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AEfiOzSgYOxqeJTCG+I9ypCeCHE=
+			03jioT9SDLNNQAHlbp2e5288qY0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -330,7 +266,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yFhkMtKNm8YD+rtFzcBdeTl8QQA=
+			vTeHK/DhStgzUpddQZlCKV31XHo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -339,7 +275,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ikqwnWJhNe8VoK2j5oue6Ax1VLU=
+			BGIr+V9tma/LgP5dRSGHOXcq0Wc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -348,7 +284,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			t3QBQ5SOXcwiKvdtTMSR/61S2YU=
+			rUZPsmuwDl23hEZyh4ZTzRAHesM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -361,15 +297,11 @@
 		<data>
 		fBvafebB8oMuL90Rpqw5Kj3RyZY=
 		</data>
-		<key>Stripe.bundle/form_specs.json</key>
-		<data>
-		WH5slsD6KDA/qJsFNWvN1zHZpXo=
-		</data>
 		<key>Stripe.bundle/fr-CA.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Zg5mS8ZUmq5oAY2SazhvW+d0bP4=
+			Ys/6T28YcASYdCzIddbX8THK2cg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -378,7 +310,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Mb8dl9CHvkTnl1jrjx2E4uEyi4Y=
+			PqWK1QhK96nOptClBDoKCw7D15s=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -387,7 +319,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KWmKYaRQKr6S5q6bHXSxVQiTA2s=
+			SKm9p2wAG28m9FRlMgdKTnG1fjY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -396,26 +328,26 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jyDpdqgJCQe1L/FuQMt+f7B7wEQ=
+			UZmjeGspz1zGwKoB18oGV+ijVUE=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Stripe.bundle/icon-pm-affirm@3x.png</key>
-		<data>
-		ETzawdA19lhGVxSZ//2a73iyw4g=
-		</data>
 		<key>Stripe.bundle/icon-pm-afterpay@3x.png</key>
 		<data>
-		mSr175qdgP8oVIAxJFznmOXxv2k=
+		Q1+x6PCDDBY7dyklswZQkk2+Sq4=
 		</data>
-		<key>Stripe.bundle/icon-pm-aubecsdebit@3x.png</key>
+		<key>Stripe.bundle/icon-pm-afterpay_dark@3x.png</key>
 		<data>
-		iOv8hEBI5Er7RbIsg8cOpBCQY0o=
+		l81QM4+7gEhP6Vn27BpeLl21hD8=
 		</data>
 		<key>Stripe.bundle/icon-pm-bancontact@3x.png</key>
 		<data>
-		9v1G+Qls6qOj3sADUhHaeyvLvNg=
+		bz5KSkvQH4JiiddbaK/+TyhaAGw=
+		</data>
+		<key>Stripe.bundle/icon-pm-bancontact_dark@3x.png</key>
+		<data>
+		9/NVE8XHwgsQmj4vpoBZRRSEPq0=
 		</data>
 		<key>Stripe.bundle/icon-pm-card@3x.png</key>
 		<data>
@@ -423,43 +355,51 @@
 		</data>
 		<key>Stripe.bundle/icon-pm-eps@3x.png</key>
 		<data>
-		R9wb/y5dhtFKSZ3uIvysVyWJUqM=
+		aZVGJ4VD5vJBsERFbCktf8fdwGg=
+		</data>
+		<key>Stripe.bundle/icon-pm-eps_dark@3x.png</key>
+		<data>
+		LhOg+5h/UGGu/iOGhiU8OwTxpCw=
 		</data>
 		<key>Stripe.bundle/icon-pm-giropay@3x.png</key>
 		<data>
-		GsDzijd/yM7lImRz9qyJe0CrYwQ=
+		4CFjfZwlyYdBxUBVERV5/U4KTIQ=
+		</data>
+		<key>Stripe.bundle/icon-pm-giropay_dark@3x.png</key>
+		<data>
+		Sb4f0FV1SOkzggo8A5s4/xP82pA=
 		</data>
 		<key>Stripe.bundle/icon-pm-ideal@3x.png</key>
 		<data>
-		ryJA005HmCKysU3SREs8znFv4LE=
+		47gNaqZ/tSSJeOkglAEOtmLmA4w=
 		</data>
-		<key>Stripe.bundle/icon-pm-klarna@3x.png</key>
+		<key>Stripe.bundle/icon-pm-ideal_dark@3x.png</key>
 		<data>
-		FwDgefIuiQDZvqJw6XCK5nvGKt0=
+		OB8kCj3GyXaFU8RsfhT20iTfTMo=
 		</data>
 		<key>Stripe.bundle/icon-pm-p24@3x.png</key>
 		<data>
-		qROvuNMzrBLaYrCn2vcjGsm7cCk=
+		zU+71q87DLoahLFHVYODuDAsBCM=
 		</data>
-		<key>Stripe.bundle/icon-pm-paypal@3x.png</key>
+		<key>Stripe.bundle/icon-pm-p24_dark@3x.png</key>
 		<data>
-		vqocd904xaX0RFiqyjMwpgnyzWg=
-		</data>
-		<key>Stripe.bundle/icon-pm-paypal_dark@3x.png</key>
-		<data>
-		w8JVSsvDerGeCulaHvnGFyRmxFQ=
+		v5ALk3merh2seUt/oXzcZ07XGo8=
 		</data>
 		<key>Stripe.bundle/icon-pm-sepa@3x.png</key>
 		<data>
-		iZJnY1+EtTzdxUpeo+Yc6DLfgIs=
+		SoHRUAn5QdPXVwdyDY08/iMVluA=
 		</data>
-		<key>Stripe.bundle/icon_add_bordered@3x.png</key>
+		<key>Stripe.bundle/icon-pm-sepa_dark@3x.png</key>
 		<data>
-		MYAo56DZ0+6QkQsprfW57EoFMB0=
+		shrlBRrPMii5aktbKPiPlk6Cqc0=
 		</data>
-		<key>Stripe.bundle/icon_cancel@3x.png</key>
+		<key>Stripe.bundle/icon-pm-sofort@3x.png</key>
 		<data>
-		1INlxYbwy5zTkEj3jeiSp7tnpf8=
+		6y5xl2iQOvn38cQs4aQkcf+/yM8=
+		</data>
+		<key>Stripe.bundle/icon-pm-sofort_dark@3x.png</key>
+		<data>
+		3bq3WfYLpBKqIpOQI3OH488a0mk=
 		</data>
 		<key>Stripe.bundle/icon_checkmark@3x.png</key>
 		<data>
@@ -469,25 +409,9 @@
 		<data>
 		b6q2kZm98i64zQkmVtl/5ieNroM=
 		</data>
-		<key>Stripe.bundle/icon_chevron_left_standalone@3x.png</key>
-		<data>
-		bgerGNaGPrtWktHshqhd40f2FbE=
-		</data>
-		<key>Stripe.bundle/icon_link_error@3x.png</key>
-		<data>
-		QqTAwrt21UGftDK7DwNW/D9+p0k=
-		</data>
-		<key>Stripe.bundle/icon_link_success@3x.png</key>
-		<data>
-		nx0dTULERMX3t0ki8tMimIhkZlU=
-		</data>
 		<key>Stripe.bundle/icon_lock@3x.png</key>
 		<data>
-		dqC3+h57yI9+1OZJXcRD3zCc/uM=
-		</data>
-		<key>Stripe.bundle/icon_menu@3x.png</key>
-		<data>
-		ncTVfk8IdO5PZNvsmJA3ibTjo+c=
+		LG2ZFsaKB1Z2I+7NUfY1BuXMWG0=
 		</data>
 		<key>Stripe.bundle/icon_plus@3x.png</key>
 		<data>
@@ -497,15 +421,11 @@
 		<data>
 		4DYTk8ccn4fmby0c8cQf0KhjVE8=
 		</data>
-		<key>Stripe.bundle/icon_x_standalone@3x.png</key>
-		<data>
-		noYOPRiXvzuu9uMGJr1VcSaCNu8=
-		</data>
 		<key>Stripe.bundle/id.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QoMtYAdLtOsJpJll2tBqGS23jdM=
+			c6Cfy3YFZNd/4Pm671z8DMA9280=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -514,7 +434,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TLIA9vRjnF16Q0sYDo5F/0QpUJ8=
+			/lnl+e/7R2O4clfu9DAqMMBweww=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -523,7 +443,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			e08fuaQnKKsxGXq0ZkIZxI7Gliw=
+			2BlCguDo2vsoDBCwCDRvDZFSops=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -532,20 +452,16 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JGgdVj1rNETftZSgm1O30/3sPgw=
+			lWhEJAJEt0HOVZeaGsbcC5PaKX4=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Stripe.bundle/link_logo@3x.png</key>
-		<data>
-		UGPrqWYS5z0mF3zJdK/xTEVVkN4=
-		</data>
 		<key>Stripe.bundle/lt-LT.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LPQzGbODC+INYdTxi9C0FvKNGjA=
+			wH9+5NMSiGRA3jAaEdVqCMzxxbA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -554,7 +470,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			c4X/Vv/Aq2tZkIKS1B1zT3YCXpw=
+			uMxjmwmKhG+Q2P6tmq5PbDdqrds=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -563,7 +479,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OVG8IOkEplAMNz71PCI5zsssXDA=
+			64nn6mMMGFVu8YgJAN6Bcv4xC4M=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -572,7 +488,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GKrIVjl+2R7q9IyyPu13Wj6ER9k=
+			8qRSRqeepbwv2nD/teo8x42+rcI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -585,7 +501,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			69iQLRTP4IEswETCpb1KT4QzBH0=
+			aaOvrcpVKyzOrqOpzO73BpntPbQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -594,7 +510,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sSgHEU8Sq+TxsbvL3nmiwubN5gA=
+			HUZnvSxqm3n/WsA4EfRnT+vdgFI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -603,7 +519,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZSzl6fKoKgdtVyKZGZQ/R7NEQtI=
+			ghSyeOjK93tqcMp9S6zmwP9+AYs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -612,7 +528,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Z+/W7HAHdQvoH+elyx0uXnLHfSc=
+			Hy8+wG8zXEMfAXe6zwLkL+gUzUI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -621,7 +537,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gZwtB2ZDeiBd4nrUkZ8I4ADrtIk=
+			m1ZJLr0woQ/UqXAt3mPPGMukrpQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -630,7 +546,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uj/7lXiAfRML0Kc7cLI1B+5ki1o=
+			djeeJ7sLZ/0PW3M4CXJr2Mus2YI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -639,7 +555,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pfINi9189smO5NJGgbpZN8fpmR8=
+			6/PCjy17XUtyl7t058mExXNYTXY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -648,7 +564,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			c5LxNCI0R2tmzaif+W5kkf9oaJc=
+			4mUAFPJkiwdxWogb1fF9RJVjODU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -657,7 +573,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rvbELhFf5zowgYkC/kqVIyyBT4w=
+			Nuc9e4F/RL4J+FjTE89c5ekUXRY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -666,7 +582,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			K3zY8rAwt3kUQDFhOAcZ/jUijPg=
+			6jLtImXBYfqlu0mR1h0+IYTaCKs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -871,6 +787,10 @@
 		<data>
 		nmDDwoJPaMVz7b0hIOy008ZVKgU=
 		</data>
+		<key>Stripe.bundle/stripe@3x.png</key>
+		<data>
+		fWyI/YqdqdgD4pNxeoeXicJ4JaI=
+		</data>
 		<key>Stripe.bundle/suncorpmetway@3x.png</key>
 		<data>
 		mxCbIN2E94Ju5hzPXtfaBkK6HfA=
@@ -879,7 +799,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rM0rHJSna2el2ldEL/64pC7l5iY=
+			ApuspkEz0LB1P5xoFn8Zhf9ywHA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -897,7 +817,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			e8ic1qr+PsYkgidAiJZmfSfebMk=
+			d9Pi+a7kJhO6p29CpJtRo1hn77U=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -906,7 +826,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yTXVnsSBd2P0192zUxZmKzTKmIw=
+			UOloXZkIlwNA06eFxV9u7xvRD/w=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -919,7 +839,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			x2QcLcPG1fTyYIoN1GMMAhRQ7sc=
+			yqaiJdnZ8KKu6wyx7UzpzsKY6vI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -928,7 +848,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Vh4Z4i5tA5xDH0SW4U6X7P4VVbc=
+			yS9Pk9g5xXYTpckmLdl/WQQa2Ao=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -937,7 +857,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vsTn518XIIos8wcfBNIXzXj0ts8=
+			pkj0U5TMb+6Fo0bUr8ziwl6R/NA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -948,11 +868,11 @@
 		</data>
 		<key>Stripe3DS2.bundle/Info.plist</key>
 		<data>
-		Fm8Dp0G24Y7Qu8RCB61Cug//xHQ=
+		awsTSi4W+TfQD+qYd/rqDHks5S8=
 		</data>
 		<key>Stripe3DS2.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		vuC7CKlqhZ7GJsKbYl4SDqPIiPA=
+		UyhY8wudeZnVQbIq8knn14nYOOM=
 		</data>
 		<key>Stripe3DS2.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -960,7 +880,7 @@
 		</data>
 		<key>Stripe3DS2.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		E/JI7qk7ZP0bi9h2sPNm6c3zytM=
+		lGQPVymt87P0RiOqDyxMIuBa8E0=
 		</data>
 		<key>Stripe3DS2.bundle/_CodeSignature/CodeResources</key>
 		<data>
@@ -1383,14 +1303,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4UXIGdB0Rwt4E3zdmP45ua+nGWEZjMB8OsEacHOGGkQ=
+			NSppkBjmBsfj02J5SguixGEXmiRtkzX80kX7hSk+ygk=
 			</data>
 		</dict>
 		<key>Stripe.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lnBFCjq1MwvSOUa85yNS/1P606fhDlFvRWdkkWOKOBQ=
+			movvX6U1S8i6l7M5ftthLV5XKB7l4J26H20+EW9fBHo=
 			</data>
 		</dict>
 		<key>Stripe.bundle/_CodeSignature/CodeRequirements</key>
@@ -1404,14 +1324,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			psxZyPBlzqbHSmng+FoJ+SaBISx5MThGOm0bxdBlOsY=
+			AcsFgIYCZTgSQjjJrSF8vWFl7Wy3rShzihCgSKvE2NQ=
 			</data>
 		</dict>
 		<key>Stripe.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VV7DxLzR7SkIcv76sLY5fEQt1i5kwwj6X8ar1YZKfX8=
+			yNf3tXQxUiEj53cRp5OBCPrJaWkHZ0sdtmF6grEbF+E=
 			</data>
 		</dict>
 		<key>Stripe.bundle/_CodeSignature/CodeSignature</key>
@@ -1419,20 +1339,6 @@
 			<key>hash2</key>
 			<data>
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
-			</data>
-		</dict>
-		<key>Stripe.bundle/affirm_mark@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4w6IRpfAaODL8fI4lY2ENXxafDH3iUGde+7xttG+UMY=
-			</data>
-		</dict>
-		<key>Stripe.bundle/affirm_mark_dark@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			lJgDUoMICYP1sPfX2ZqHod1MARC+Zim+f2xm4M3deAc=
 			</data>
 		</dict>
 		<key>Stripe.bundle/afterpay_icon_info@3x.png</key>
@@ -1477,118 +1383,6 @@
 			Cd+piF3bgclsVb3Hd3/63GxvuDk9oZaFGb5SOKNpzso=
 			</data>
 		</dict>
-		<key>Stripe.bundle/back_button@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			wre3JS5g5i9/g80eOw7jItj/jM2CXNGjux6fwqtuUQk=
-			</data>
-		</dict>
-		<key>Stripe.bundle/bank_icon_boa@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			HsX+Sc/Z4t0OeHqk1qROVdCh9aYM622i9qESJfyRObA=
-			</data>
-		</dict>
-		<key>Stripe.bundle/bank_icon_capitalone@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			LueiYNwAd5BC5EFI6D3u9WCLVrPZqxLX9s0XDI779JE=
-			</data>
-		</dict>
-		<key>Stripe.bundle/bank_icon_citibank@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			x14azEQG8nKOYQ6yxMH02V+CijPPQcLiBYmKcaTS6TE=
-			</data>
-		</dict>
-		<key>Stripe.bundle/bank_icon_compass@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ZKiFxYbXTeXn9sd/+Q7SNALpgyNfz3/WGL1nX1g9C7c=
-			</data>
-		</dict>
-		<key>Stripe.bundle/bank_icon_default@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Q8chBvI0cwIA7kabVJWRxcKkMdNHQlwAw2wvVHnpILU=
-			</data>
-		</dict>
-		<key>Stripe.bundle/bank_icon_morganchase@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			tiCbvkKZRTW5WlTjTLISg21M2WbPjo2W+m2i0Q2uA/Y=
-			</data>
-		</dict>
-		<key>Stripe.bundle/bank_icon_nfcu@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			DHZzBumZxGBN9Iptyi6PYLq8ByNRcxA++ZRkuOvwURU=
-			</data>
-		</dict>
-		<key>Stripe.bundle/bank_icon_pnc@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			UICMP7fXolcSfMNChJ310fKVhddQoGdNupW+2nJR3K0=
-			</data>
-		</dict>
-		<key>Stripe.bundle/bank_icon_stripe@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			w1b1G+2X0irPw5Cge4TwzGeEsu9OzfQ3npp6+E4E4lU=
-			</data>
-		</dict>
-		<key>Stripe.bundle/bank_icon_suntrust@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			jW//Cvbv6sdbaW6UIfNB332f8r34CHLRm2HyyUiauWk=
-			</data>
-		</dict>
-		<key>Stripe.bundle/bank_icon_svb@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			FDdiHeRcZLTu+UsUAy6mnSejsg4o283tOIHnDcF7Z8U=
-			</data>
-		</dict>
-		<key>Stripe.bundle/bank_icon_td@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			MLVlHXwFz4H3Z9qKDE7HRWUNzYFYjgNuB/ZY9P+h5U4=
-			</data>
-		</dict>
-		<key>Stripe.bundle/bank_icon_usaa@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Eaf3Ok9EHh/MEmNvTO40Nuor/86SCtaey6UDQJ1KpFE=
-			</data>
-		</dict>
-		<key>Stripe.bundle/bank_icon_usbank@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			jSRpXUM4Z52wv8t+v3FfAW2ulR1RiOdDbkgenqL0rAw=
-			</data>
-		</dict>
-		<key>Stripe.bundle/bank_icon_wellsfargo@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			u0zuNxwqq4lXtHlSTnIp+iZ3tihAw7LX5aEKtNEnXUc=
-			</data>
-		</dict>
 		<key>Stripe.bundle/bankofmelbourne@3x.png</key>
 		<dict>
 			<key>hash2</key>
@@ -1614,7 +1408,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vKmjeIa8otETIrGUGdsLXaengBvSBtOZjduqIJuc78g=
+			Q6r/8XpHll7btdBYmnQnOcvT+EUvmYOv5y7dq6zkt1s=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1630,7 +1424,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jC+KtzcDQSz/Rnmn7aK66xG2kfWTHwoKXEniwCPag6Q=
+			C+Hp/6nG1EIKszmlDZtcTmByzd92JyRd6HJcBcKfTcE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1639,7 +1433,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7dCXUQM5xLHFslsFgOIHGvNxMnDdBmeATgFcwfVFPKo=
+			lOH7aXly/PkIbU7GqQ3MAmzySh9qB8XNGZqauh+asG8=
+			</data>
+		</dict>
+		<key>Stripe.bundle/card_amex_dark@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zQjFfNnhOKaeL1zOalYsCMLTJMQsA31Xpc8Zbys87dY=
 			</data>
 		</dict>
 		<key>Stripe.bundle/card_cvc_amex_icon@3x.png</key>
@@ -1656,20 +1457,6 @@
 			kDgevtQ8BzM764uGGtDAYmvBDUU9Jk+0Y5UtKccs0Ho=
 			</data>
 		</dict>
-		<key>Stripe.bundle/card_cvc_amex_updated_icon@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			I1M9gWtU9WDqb9isCyW+LbRHc71JvHd/+LM/Twy3rhs=
-			</data>
-		</dict>
-		<key>Stripe.bundle/card_cvc_amex_updated_icon_dark@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			gYoj4jjDzMA54DI4jKOoYmB411OV30F3MYxpUJ7c3Zo=
-			</data>
-		</dict>
 		<key>Stripe.bundle/card_cvc_icon@3x.png</key>
 		<dict>
 			<key>hash2</key>
@@ -1684,60 +1471,88 @@
 			UFmmeVoykj62Ujs0irquxUEs86aBCzQNqxPFm1ynw9c=
 			</data>
 		</dict>
-		<key>Stripe.bundle/card_cvc_updated_icon@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			VHsG6NwmgN8L6figTiFmnfp2eHcqAkcgIRtpjh3qJOc=
-			</data>
-		</dict>
-		<key>Stripe.bundle/card_cvc_updated_icon_dark@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			VPGjkQWQ1j67n1PPXfj5yRs0E7YUuc3K3c2ngc236fU=
-			</data>
-		</dict>
 		<key>Stripe.bundle/card_diners@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KRRMJWbVgRfFBbFR2gtqSrnNO/b/LAQKYhXu5lNgsUc=
+			sWWCkfs8v8M6QqoUToD/iVZSrZ49l1PoD1j7MefU6LI=
+			</data>
+		</dict>
+		<key>Stripe.bundle/card_diners_dark@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			236fIb1+ArMTHA4zHpLuES20whsXAehHeDaFwhewcI4=
 			</data>
 		</dict>
 		<key>Stripe.bundle/card_discover@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			S8CjSHScxU0/sV2JGFwtdPX7XW3e5JUYns8CbKEcIr0=
+			MUrEQWy1I/W62kWfSF1XGk21zApzUOkijFyTicQdDSg=
+			</data>
+		</dict>
+		<key>Stripe.bundle/card_discover_dark@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fDlHqj/JmM03vNozdnlp0A63yNGHfbTbRwv0eghGpCw=
 			</data>
 		</dict>
 		<key>Stripe.bundle/card_jcb@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			i/yqXkBsBWbgfgfkF11/gm8VoVMs2Knl2KgPROfGq2U=
+			LtphtmkCeP2Fvjwr7a528ZrgMa/V/uFtWcIQME2XKXE=
+			</data>
+		</dict>
+		<key>Stripe.bundle/card_jcb_dark@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			e98k+lXlzeX9WNZqN48/TvkpjBEpdcmrCmzk22JRxV4=
 			</data>
 		</dict>
 		<key>Stripe.bundle/card_mastercard@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fnfXkQJGxShEqbwnXK8iI14ndd5zm0Q+cd5xFY2mqK4=
+			A+/n/RvJ2Pft+WjS6fC4vJe/1fahV8BaBxkO1FeAoZ8=
+			</data>
+		</dict>
+		<key>Stripe.bundle/card_mastercard_dark@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			O5R8XirZM42U1w1zxY4vhQ9UdOQFumz+tYp0rGX9ZGM=
 			</data>
 		</dict>
 		<key>Stripe.bundle/card_unionpay@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2WrtyQBfc9Zw6NC+yPfB0ihrocR8Lpa+Vb3BN8WDszo=
+			PPzxCqsKT9WNseJXU8Hi73xtMjAZchMrWFHOBYO3PWY=
+			</data>
+		</dict>
+		<key>Stripe.bundle/card_unionpay_dark@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HUGUlf31Cae+fU0OI8jOulU/O58ksrVoOFpOIWZf6C0=
 			</data>
 		</dict>
 		<key>Stripe.bundle/card_unknown@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+vnuEDhDdH+B0p6wMlO4p3DT3FpOydSE3K7mDG18Qcw=
+			8NYbadjfXVsOPTlKQVPF9SIEi+B8v1XtkjkYokn13Es=
+			</data>
+		</dict>
+		<key>Stripe.bundle/card_unknown_dark@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			g6iZ3zFXC5cDja/r4agr+gujDK+9MjxFa8+MXy9zDjQ=
 			</data>
 		</dict>
 		<key>Stripe.bundle/card_unknown_icon@3x.png</key>
@@ -1754,25 +1569,18 @@
 			QjzAGwNoBwnjo0fPHEeFYJx0euevFZLU7rCz6QKFBVw=
 			</data>
 		</dict>
-		<key>Stripe.bundle/card_unknown_updated_icon@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			A9EwwdZfqea48c9VxBKr4YSqmwj66Ny3P256Wk2j/Fk=
-			</data>
-		</dict>
-		<key>Stripe.bundle/card_unknown_updated_icon_dark@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			71LWeVx8k0VijpCY5XeUEmxMh+NQCFptIksucXWZR0A=
-			</data>
-		</dict>
 		<key>Stripe.bundle/card_visa@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+mvIlY7BaRRXoRacJ/o5GNuNn6gAUnkNjRYQoal8dmg=
+			8ZMObFTkkYeaIWoAf1k8RoCLjkp7x3J8sewZjFIFXxI=
+			</data>
+		</dict>
+		<key>Stripe.bundle/card_visa_dark@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ez/EA8EYgdWFAyp6NcBrAooFnm21yB99Kzf3woTe75Q=
 			</data>
 		</dict>
 		<key>Stripe.bundle/cba@3x.png</key>
@@ -1800,7 +1608,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			28sxNqIeIizJuA0j0+cYlNPKPTuUPSNy5jAF9xD/ObM=
+			pjarln8ev5SosnV9A7jRkzmwdTIvTIOS5ljPsDRl/5A=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1809,7 +1617,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UaZk4a6VtV68SmgtWEoPFG1/k1a+Usa7Ye1SzPVs68w=
+			KwoaCoKId5u4p/mc8BBDS00xzd1Ug6LrcR43JTbEWsU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1818,7 +1626,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			49BzzuVqRoylIomlL6+fof7suTV9xWJ0SMLfmRXaDyM=
+			vG4YENgZlhftpryMXvEcxtMEPecgyivcnNIeFN/8eeo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1827,7 +1635,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			s/fYf3HzuCuVzOKKuAQxu8iD3FNMnuYRv9BC7xpJyHQ=
+			S6v8KVg/Ibp4rE5btCfaSFaxCnlmpnmXeabqAplCGs0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1836,7 +1644,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mYTmaqJ/4HN2TQ9M+qI9j7Y17BlzWlQ8QzLCA8IbvI4=
+			wKK3sc05OzQRXB0KnCJqmBVbbG54vWUIlXsI0Ioz8q0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1845,7 +1653,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			od3R2sj0PewU5G1d3tye4g4OF8XsKIhzinA0y9fxNL0=
+			6+KYQNHVPk86tfU1ln55V8eDSkM1YPHm/Vl/OUmf4YM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1854,7 +1662,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sT31PNCA8l0Mijwz0+dezxshU3/H4FJLzNW4ly09lOI=
+			W4QG5rEUsBSsRiIPrLjcpSgj1T6rbvdQZoGRjimpNWg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1863,7 +1671,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qjphweqxJ4xEZjEMtTnOwDOQ91dl/8P99b60dRsDfPU=
+			mmpIBvGXkOM7OnAphdMtreOU4hLMJtgkxuIBbsSv5hw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1872,7 +1680,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			K+vVxYka5P9zIKWESPqQZJvG8haPjlCSL2zC1s3Fj8Y=
+			+1pIdBlV8Z30uNL60beB3ev26S+XYTXgJT5BtHT5e9Q=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1881,7 +1689,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NyHcHurizPyGPEtuARuBP0E798rbmwpiJhPqxeMlVLw=
+			TDVb69UbrtgbO23/kcpMUr0oVg85FijpTQb4JK7JkJs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1890,7 +1698,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4z/cuHZTAYMJIw8smChJQGhdw3DEbJTH9/M8qNKkytQ=
+			yPD/qC+MaGuFttaJ2E5/HXLm2fSN3Xt94L577qOxLzU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1909,18 +1717,11 @@
 			8aTaixvRVMjc/1BcCtNc0tmUduBvjsfvLL4sRjfZLuE=
 			</data>
 		</dict>
-		<key>Stripe.bundle/form_specs.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Qy7qV06yBxahsBgj4L+SpX2v2TekdL6glcRludelO7w=
-			</data>
-		</dict>
 		<key>Stripe.bundle/fr-CA.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FIJS/r2oVzuxqS53xSfzSxhCd3VZrJgoDTYVcr78Ano=
+			t7oKzVXe7+6YN5/ar64/Xj5u/k/qmPzw6CqNuLbWLyY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1929,7 +1730,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			X6rqgcMB1rXUxH8h3g5jLgRWMgfm9RoXhnL/jH/7lgg=
+			lGqnRylrncx6LGIN90ezE+vt6JOqUSdk1nosOuRMQgY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1938,7 +1739,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fKwyL9pvvCM+lt6VjhUn4ty5DoDYdvLsMBHXShD6RLk=
+			iuc+z7mF/0ykhIbJRwFG2SJZwUryWbGZcVgq7fbIBIE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1947,37 +1748,37 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DSowUe+BDoZjyh4Det2F4hpI5qZdXUdx60ZoW3qUdNY=
+			+ZLQkyySL/e67Xfaa5TLoeD6b/4mKODx8n33/qYdUg8=
 			</data>
 			<key>optional</key>
 			<true/>
-		</dict>
-		<key>Stripe.bundle/icon-pm-affirm@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			q89zH0Dgs3LbWuuMmH6PBC0PVa0Q895a7+72pBGN1Jg=
-			</data>
 		</dict>
 		<key>Stripe.bundle/icon-pm-afterpay@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0bOJkrM2lWxRPODZkSIa0hiSpA3+7+DRbfE0r6T5nxs=
+			HrhYbfVEQYsSU2Es+r477vc0iwvzEGcQ6JVUl3RLRTU=
 			</data>
 		</dict>
-		<key>Stripe.bundle/icon-pm-aubecsdebit@3x.png</key>
+		<key>Stripe.bundle/icon-pm-afterpay_dark@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YigbXXhzGrG/AgOhEEHvQPKwgyUjQpsTD7bLu8lqlH8=
+			LZlFHUg4LEuG6houbxZxUCFeU8kMuma5qcQ1BWn3Nv8=
 			</data>
 		</dict>
 		<key>Stripe.bundle/icon-pm-bancontact@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jbRljRPzjxJ8IwVdXogg3rUls2kZFwqSEAlTDbFKv2o=
+			JlODSyY9p9Emv9HBc2kA1ondsG4WVSkdR/AAejv/DiQ=
+			</data>
+		</dict>
+		<key>Stripe.bundle/icon-pm-bancontact_dark@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3hCaSyaxI4MHfdRa3wuM+eOa6OGkMWMIufU99S5GCX8=
 			</data>
 		</dict>
 		<key>Stripe.bundle/icon-pm-card@3x.png</key>
@@ -1991,70 +1792,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9fYBuvdMEcf+aF3+vMQZcElbOhzNQ/15cd6rUCHBRGs=
+			KZpnSqz8CDiphvqdReBqDwdq3ZGo4LLxqXqRcmbMUOs=
+			</data>
+		</dict>
+		<key>Stripe.bundle/icon-pm-eps_dark@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Img5p0aqngGUuNcHf2z4eWA8qOuCHCGPnMxD6BwWEqs=
 			</data>
 		</dict>
 		<key>Stripe.bundle/icon-pm-giropay@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TlFBftZnbTAJKx+AGE0U44H6GU/cPjEwTzMDeUzJRkg=
+			7OOAHSX54JM1zkq+ncDS4xrlw3hKIAJMbczwfyPVQbc=
+			</data>
+		</dict>
+		<key>Stripe.bundle/icon-pm-giropay_dark@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qpKpCWfrQHz4mKuHQ9hGf5EBKOatKjrEkRfqoepeEXM=
 			</data>
 		</dict>
 		<key>Stripe.bundle/icon-pm-ideal@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			csUCGAA8x3MkH/AaIiryc6kuR7FryLrSQoX/XLWgKw4=
+			fgmsj8MVHW7jGDEWmGa5NzybwoaPIyCbAb5nV2dIOQk=
 			</data>
 		</dict>
-		<key>Stripe.bundle/icon-pm-klarna@3x.png</key>
+		<key>Stripe.bundle/icon-pm-ideal_dark@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			k2yML7772eQS6Z2y8jWeuT+ReGlfmD7cRhBGdK4mH4Y=
+			fhkmcoyrQB8sLSbv9Mpn9qCbb/+JYwuU8Aw1FZSo2j0=
 			</data>
 		</dict>
 		<key>Stripe.bundle/icon-pm-p24@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g/3bP5VtW8Kt1PpGcfkqVsNcNmozVXWNjoE2WL9bkfI=
+			yOUAURJWFkDoh4s4qeB5F6Vvaksag9pzoFkwxzFG3L0=
 			</data>
 		</dict>
-		<key>Stripe.bundle/icon-pm-paypal@3x.png</key>
+		<key>Stripe.bundle/icon-pm-p24_dark@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vy+lyGwmC7ZiXfnS9VTtbHSoAovR6Yhy+dJGKReeXqM=
-			</data>
-		</dict>
-		<key>Stripe.bundle/icon-pm-paypal_dark@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ZdSstOpXUhYjOWRRVE/5dHUhEcJSZbAcJsb9VQTWCf8=
+			8h381ZSg+Yfv/yrpr9cwzxvhZ1JWcSUg0posimF3LNk=
 			</data>
 		</dict>
 		<key>Stripe.bundle/icon-pm-sepa@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YCUBLrw+nI0tfpFSn3xbqxZex3GAOzRtF+Ot6OL0QQs=
+			2wq3UqvyexnDxvb/4VNGXyW/5JvDAFtH5Iliiev6wCI=
 			</data>
 		</dict>
-		<key>Stripe.bundle/icon_add_bordered@3x.png</key>
+		<key>Stripe.bundle/icon-pm-sepa_dark@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qod+i+F2q3ijll3WO9OscCttIW0M43zHwCcDQFo9sHY=
+			knO7GXv88xlP6ybSnkW7qtnIKDvBqIgu4dJ5hWMrQn4=
 			</data>
 		</dict>
-		<key>Stripe.bundle/icon_cancel@3x.png</key>
+		<key>Stripe.bundle/icon-pm-sofort@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tcHkm8BlWvvN4YzFZFR3ZxR08FxR3pMmebemtHNWgh4=
+			2/VqnTOmrNmdJt6cu0MiAqXh8YtTMBfE3hAvBAia2iU=
+			</data>
+		</dict>
+		<key>Stripe.bundle/icon-pm-sofort_dark@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qQdxD4QMgUcxabvxiFSkPfAzA/6zey00lt/kSThZ4Tk=
 			</data>
 		</dict>
 		<key>Stripe.bundle/icon_checkmark@3x.png</key>
@@ -2071,39 +1886,11 @@
 			9BEjmKTSGGGXB0l/i7JWt0mkb8r0sHgbdv8uBAz/5mU=
 			</data>
 		</dict>
-		<key>Stripe.bundle/icon_chevron_left_standalone@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ZHCKfEJ3owuan/Lz6wvNrooX4xDQwbQ/1lMWYWUjQm0=
-			</data>
-		</dict>
-		<key>Stripe.bundle/icon_link_error@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			G65V9plkYvV3ck4yM2fItR20yvUEzOs907abF30laiw=
-			</data>
-		</dict>
-		<key>Stripe.bundle/icon_link_success@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			FkpHFrAg5J5H7TaCRhxUaGx/EkEt2Ay71iT3UVyixXs=
-			</data>
-		</dict>
 		<key>Stripe.bundle/icon_lock@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Xb3RBLSqDm0fWFQzLRu2BJKm3epVuvoXsVoXeRb0Cck=
-			</data>
-		</dict>
-		<key>Stripe.bundle/icon_menu@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			zZ7QVnMRrWfW8QUNWLQrW+dTziaqyj5Z+GsoXzHUSAU=
+			W6iwj54dlz6XgwR6agFRKA6CL3KYWj/HTZ1IjYR+RmU=
 			</data>
 		</dict>
 		<key>Stripe.bundle/icon_plus@3x.png</key>
@@ -2120,18 +1907,11 @@
 			L6vwVpm3beHDwc3HG2OffUXYtaIgUV6YjEvNBjkpsjs=
 			</data>
 		</dict>
-		<key>Stripe.bundle/icon_x_standalone@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			aJkFp+2DO9QzwgFWv1HaU9ba/C5P/hNi4WEhIvVx5Hc=
-			</data>
-		</dict>
 		<key>Stripe.bundle/id.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8jEYIb9amgFJar0OLrFIYBdLDBLVgX+ZgOScsXRK2tk=
+			XoB+9WkDR3hOH5lleCTqwCBq4Vm5Hn6QsYFNafBZNpw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2140,7 +1920,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			61Ci5KBgjjrG+McHKHhcDn7hgNkg/lcmVEjiBZg/zD4=
+			b5QI/XHrPNxEoBIlXoDr3lIOkdXh4fxazbpEt4+d43s=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2149,7 +1929,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			T9DIX+mShfqotG79GxPlhODyqN0U+csLLQymFiceUAY=
+			Lp3uell/uac47scwQjSxxi3l31eolSJC5SyOPR1W4Ho=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2158,23 +1938,16 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KtwptewwRXp1lPfmHjYKOvQfdikvrG4sXsImfPpnXQ0=
+			ycH+1yVmHCQawPtZNoYBg+PXjtzMMx0B22EKonsBieM=
 			</data>
 			<key>optional</key>
 			<true/>
-		</dict>
-		<key>Stripe.bundle/link_logo@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			QN8O52EPahEjm+D5ctr8Cf1Fj3V3Y/kGurUKG1Nlq9w=
-			</data>
 		</dict>
 		<key>Stripe.bundle/lt-LT.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vjt3HcFYg+E9Ckc7bgGCTk2zmyZhy02+rXLrc1t49WM=
+			6uCjcz5SO+JqQlqlF8L4zdcyU3ZRC5Ge6rT5m5hrbB0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2183,7 +1956,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6+Eojikpah8sZICq59IQwwMx1Yat39d//QnTi1f2NTA=
+			R6gIcVfYdcBG5pQxZ0BLMQw4+iRbk41So7niwrB00r8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2192,7 +1965,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5vrkSNA0lOthfrJYkZ3Pyh7XRQByIxgr1//f2CllbAA=
+			b8/RKA/QKLNMbQdrt5/a9A5Q+VhD5fI6mDlnfICczeQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2201,7 +1974,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MzRHAKTn8pGuGfANOs96E8qdsO5Y4uKrvOmSJraOMtU=
+			iDQAhWMre3oiInk2aPz/IEGt0lKSgCZbX9+TIO8Hn9Y=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2217,7 +1990,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XHheJ/fmD1SchB+pDhC6Axd7UH/QITUnaaNqE8++WIU=
+			wYOdwtUn3jY6kZiJKQCLFFSjenCkOyDlIThuy2YkVjo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2226,7 +1999,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y5mwMJh3EvhOfh7fPv7pjsxvPgjmLh98F6af6ZCG2VQ=
+			1/vDIRfRQh6FcFGtL0rYB84sG71ynIFAAV2p58FPXPI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2235,7 +2008,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cn1UarnqSTigy5i0HZycZ2CihxqG8VoPhjo6XUQUmmM=
+			8J1nr0NKaZiSComnF89lb6c2Acjd0uaec44sqlnUB9M=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2244,7 +2017,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YthUbdi5O8++Lbcqrt4jIrDdWwGHZSCMXhrnLJF1Qw4=
+			8Pun0fAL3p6rJlTGZHThK+U/2HRWrBybB29Ql0lrmwg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2253,7 +2026,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JMLrmYcDWtHGSjTOGndCzdRbME5mDAclnqYXAc8Zi6A=
+			Q/pxK36tCZmgfyiTnIa5LKy++NPLaARyH8kxZYjT3aQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2262,7 +2035,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Shb7rF6mbkyyPV9yVbP4CcZb60ORqSnO+JSKQWomXk0=
+			mfbXpO3Erd2nI/KTL9dhaNw4x/1695dqxcIAll3x/Kc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2271,7 +2044,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3XGlx7ArMSvPzdntZvGXSZC9UTuhgS6DE+sIv999X9w=
+			r+ohIVkhZcfaQTrZ1g6nPpXeIF73+bcG35KXX6P9kOw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2280,7 +2053,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NhWwy4boUw44+R3D7p4PwNBNhC8An3NPmwfr5z3gBuU=
+			6rKRAqCgOVnsa15k43Z5l8htreqOP5tEVTH//4HeyjY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2289,7 +2062,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hGYm/p9j+/qpUWJIyEsKL++saf9jXhMHtHD0vQumsV4=
+			3ju+dXiXwuqwGNZ2S00Fx2/GkjtGGYYLO9obkT1zDUs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2298,7 +2071,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			O5F0v5VVCN6lBaifxxQUoURvoDecXCenswQHDEKSrxg=
+			eH/lVRXqAeM75UtgPcereYGaYJhYRakLI1ZUqBjdVVk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2653,6 +2426,13 @@
 			QL1PnjZXC/UmoVdYEy+oJzmchonnpA1wuFRVfdD+qQE=
 			</data>
 		</dict>
+		<key>Stripe.bundle/stripe@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0kEo4BFK6eVqt1YpWFKoJ0lpuECQIu0ZryVNuGPjdtA=
+			</data>
+		</dict>
 		<key>Stripe.bundle/suncorpmetway@3x.png</key>
 		<dict>
 			<key>hash2</key>
@@ -2664,7 +2444,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			utv3AFr2F4ZiE+puP1PgXWZZtEOkfZunEFdLJe/pOjg=
+			w6Wa8rBkgM/Rbt3IxW/+aPYawlE7Fx4u9+6LS7HRP60=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2682,7 +2462,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mDsC6HSA6KZxgMej8EDmTpgm7xw2hEN3xt+lHLVx9kU=
+			1Au5Nrp0O6pNJkw9HqGJFj6vX1hv4T9KnjVfEQKDgvc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2691,7 +2471,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RQz03AUZg9bw0eBUFo88WRY9xu34MJxPyvt8Vsi254U=
+			aHx+oHI60suxj2qleQAGpfrlgnxM7lYU5Bkq2uUwTOg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2707,7 +2487,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WlZrTF5Roz6Uqv5BqWrUnRUSlpYJe9O+7HtWn+CB7yM=
+			cZaLP7gx6gntmNxdJhlrt4/zZb4OWGYV2IVvWC+8W4U=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2716,7 +2496,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TcdCMal+ImPPQuSXf8sxQkeXt5Yx7JAI/xg1zBKwsJA=
+			NXVQnXdgo4RvVkh1MedX1smMv6fe8sm3p4gh4ys4nls=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2725,7 +2505,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ve7q8tCMGC9KIftVJegtxgoORCluuIepv0f174m3X0Q=
+			5uq5HbZEL6ZzZ/PxdoUWb7P9oFPYV3VNu12dk2vNx0o=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2741,14 +2521,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			S5+Y7Bjr5aXMGeoYmSZEY6LxIfU/s+tkB4KP2WDkAC8=
+			hKbpoCbH7t2v7TDZgpkg2VZTBVgDvOr5RMyueULkSBc=
 			</data>
 		</dict>
 		<key>Stripe3DS2.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Loakre1hY+WZnyu6dvrzgRtoXl8mOY/7zgXYhgp0ttM=
+			IDfEYudrzo8TKpwNRdrSsNF+/MIMyzVuh9oacK9VBto=
 			</data>
 		</dict>
 		<key>Stripe3DS2.bundle/_CodeSignature/CodeRequirements</key>
@@ -2762,7 +2542,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			blYFSBU+OgbOJeBV2HIwcFRmNyGQhajWLIitJl/uJio=
+			BhkzhRSUJK250fCzhrx75zPR+pk/PrnlG5OrLeVk5zU=
 			</data>
 		</dict>
 		<key>Stripe3DS2.bundle/_CodeSignature/CodeResources</key>

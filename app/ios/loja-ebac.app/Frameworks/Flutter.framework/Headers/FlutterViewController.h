@@ -50,7 +50,7 @@ extern NSNotificationName const FlutterSemanticsUpdateNotification;
 FLUTTER_DARWIN_EXPORT
 #ifdef __IPHONE_13_4
 @interface FlutterViewController
-    : UIViewController <FlutterTextureRegistry, FlutterPluginRegistry, UIGestureRecognizerDelegate>
+    : UIViewController <FlutterTextureRegistry, FlutterPluginRegistry, UIPointerInteractionDelegate>
 #else
 @interface FlutterViewController : UIViewController <FlutterTextureRegistry, FlutterPluginRegistry>
 #endif
